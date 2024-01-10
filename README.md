@@ -1,4 +1,4 @@
-> ## **```FastAPI is a Python based modern and begineer friendly framework for building web API's and backend services in no time.```**
+> ### **```FastAPI is a Python based modern and begineer friendly framework for building web API's and backend services in no time.```**
 
 ### To run a FastAPI app: 
 ```uvicorn main:app --reload```
